@@ -1,4 +1,10 @@
 /Binaries
+/Build
 /DerivedDataCache
 /Intermediate
 /Saved
+/Plugins/*/Binaries
+/Plugins/*/Intermediate
+.vs/
+*.sln
+*.suo
