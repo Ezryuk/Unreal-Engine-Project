@@ -33,8 +33,8 @@
 #define WITH_PUSH_MODEL 0
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
-#define UE_LIVE_CODING_ENGINE_DIR "D:\\Programmes\\Epic Games\\UE_4.25\\Engine"
-#define UE_LIVE_CODING_PROJECT "D:\\Unreal Projects\\FPS Project\\FPSProject.uproject"
+#define UE_LIVE_CODING_ENGINE_DIR "D:\\Epic Games\\UE_4.25\\Engine"
+#define UE_LIVE_CODING_PROJECT "D:\\Unreal Projects\\FPSProject\\FPSProject.uproject"
 #define WITH_XGE_CONTROLLER 0
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"
@@ -51,7 +51,7 @@
 #define RHI_RAYTRACING 1
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
-#define UE_ENGINE_DIRECTORY "../../../../Programmes/Epic Games/UE_4.25/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../Epic Games/UE_4.25/Engine/"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME FPSProject
 #define UE_TARGET_NAME FPSProject
