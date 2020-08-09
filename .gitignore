@@ -3,8 +3,8 @@
 /DerivedDataCache
 /Intermediate
 /Saved
-/Plugins/*/Binaries
-/Plugins/*/Intermediate
+/Plugins/**/Binaries
+/Plugins/**/Intermediate
 .vs/
 *.sln
 *.suo
