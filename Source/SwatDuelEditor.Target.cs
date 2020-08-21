@@ -3,14 +3,14 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class FPSProjectEditorTarget : TargetRules
+public class SwatDuelEditorTarget : TargetRules
 {
-	public FPSProjectEditorTarget(TargetInfo Target) : base(Target)
+	public SwatDuelEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		bUsesSteam = true;
 
-		ExtraModuleNames.AddRange( new string[] { "FPSProject" } );
+		ExtraModuleNames.AddRange( new string[] { "SwatDuel" } );
 	}
 }

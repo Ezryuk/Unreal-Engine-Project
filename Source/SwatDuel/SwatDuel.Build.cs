@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class FPSProject : ModuleRules
+public class SwatDuel : ModuleRules
 {
-	public FPSProject(ReadOnlyTargetRules Target) : base(Target)
+	public SwatDuel(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

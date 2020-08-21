@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "FPSProject",
+			"Name": "SwatDuel",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
