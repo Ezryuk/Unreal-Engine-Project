@@ -1,4 +1,4 @@
-# Unreal Engine Project
+# Unreal Engine Project - "Swat Duel"
 
 This project was made in three months as part of my studies in the computer science department at
 ENSICAEN, an engineering scool in Caen, Normandy, France.<br/>
