@@ -16,7 +16,7 @@ It was intended to create a first person shooter game with two modes :
 # Multiplayer System
 
 This game uses the Steam Online Subsystem to play online.
-Thus, this requires the free video game platform Steam.<br/>
+Thus, this requires the free video game platform Steam and the Advanced Session Plugin available [here](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin).<br/>
 One player have to host a game, whith a custom server name.
 The other player have to clic on "Search" and find the server to join in the list.
 The servers displayed will only be those of this game because the system uses a keyword to identify the game.
