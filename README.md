@@ -4,7 +4,10 @@ This project was made in three months as part of my studies in the computer scie
 ENSICAEN, an engineering scool in Caen, Normandy, France.<br/>
 It was made as a replacement of the end-of-second-year internship abroad that was canceled due to Covid-19.
 
-This project is made with Unreal Engine 4.25.1, game engine developed by Epic Games, and uses the Steam Online Subsystem.
+This project is made with Unreal Engine 4.25.1, game engine developed by Epic Games, and uses the Steam Online Subsystem.<br/>
+To compile this game, you should use the 4.25.1 version of Unreal Engine to avoid compatibility issues.<br/>
+Then, in Unreal Engine, go to File > Package Project and chose your OS.<br/>
+Compiled games for Windows and Linux are available in the release part of this gitlab.
 
 It was intended to create a first person shooter game with two modes :
 * Solo : the player plays against an artificial intelligence
